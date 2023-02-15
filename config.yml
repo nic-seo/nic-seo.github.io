@@ -39,10 +39,12 @@ outputs:
     - HTML
     - RSS
     - JSON # is necessary
+    - JS
   section:
     - HTML
     - RSS
     - JSON
+    - JS
 
 menu:
   main:
