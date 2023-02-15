@@ -1,27 +1,27 @@
 baseURL: https://githubuser.github.io
 languageCode: en-us
-title: Linus Torvalds
+title: Nic Seo
 theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: Welcome to my mind
+    Content: A space for random thoughts and musings
 
   socialIcons: # optional
-    - name: "github"
-      url: "https://github.com/XXX"
+    #- name: "github"
+    #  url: "https://github.com/XXX"
     # - name: "youtube"
     #   url: "https://www.youtube.com/channel/XXX"
     - name: "twitter"
-      url: "https://twitter.com/XXX"
+      url: "https://www.twittter.com/nic_seo_"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  author: "Linus Torvalds"
-  contact: "LinusT@example.com"
+  author: "Nic Seo"
+  contact: "nicole@mercuryconstant.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
   mobileMenu: true
