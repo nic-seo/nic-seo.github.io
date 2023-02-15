@@ -3,7 +3,7 @@ tags:
 - Generally Intelligent
 - recruiting
 title: Generally Intelligent/Recruiting transition plan
-categories:
+categories: work
 date: 2023-02-14
 lastMod: 2023-02-15
 ---
