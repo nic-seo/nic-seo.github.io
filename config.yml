@@ -1,7 +1,7 @@
 baseURL: https://nic-seo.github.io
 languageCode: en-us
 title: Nic Seo
-theme: "PaperMod"
+theme: "hugo-book"
 
 params:
   homeInfoParams:
