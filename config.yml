@@ -7,6 +7,7 @@ params:
   homeInfoParams:
     Title: Welcome to my mind
     Content: A space for random thoughts and musings
+    defaultTheme: light
 
   socialIcons: # optional
     #- name: "github"
