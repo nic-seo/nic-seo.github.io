@@ -1,13 +1,15 @@
 baseURL: https://nic-seo.github.io
 languageCode: en-us
-title: Nic Seo
+title: nicseo
 theme: "PaperMod"
+disqusShortname: nic-seo
 
 params:
+  defaultTheme: light
+  
   homeInfoParams:
     Title: Welcome to my mind
     Content: Or just the tip of the iceberg
-    defaultTheme: light
 
   socialIcons: # optional
     #- name: "github"
@@ -21,7 +23,7 @@ params:
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  author: "Nic Seo"
+  author: "nic"
   contact: "nicole@mercuryconstant.com"
   feedlinks: true
   copyright: "<!--Creative Commons License-->This site is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).<!--/Creative Commons License-->"
