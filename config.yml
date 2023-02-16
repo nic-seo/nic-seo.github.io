@@ -6,7 +6,8 @@ disqusShortname: nic-seo
 
 params:
   defaultTheme: light
-  
+  comments: true
+
   homeInfoParams:
     Title: Welcome to my mind
     Content: Or just the tip of the iceberg
